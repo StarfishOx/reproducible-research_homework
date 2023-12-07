@@ -1,6 +1,20 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Reproducible research: version control and R
 
-\# INSERT ANSWERS HERE #
+# Answers
+
+## Question 4
+
+a) The R script produced two plots, side by side, showing random walks with 500 steps each. Every step is the same size (0.25) and is represented by a point on the plot. The colour of the points corresponds with the time sequence of these steps. I observed that the colour of the points transitioned along a gradient from dark to light blue through the duration of the walks. Each plot showed a different, random pathway through a 2D space (x & y coordinates) but both walks began at coordinates (0,0). The two walks ended at different coordinates.
+b) A random seed is a starting point that is used in generating a sequence of pseudorandom numbers. They are used to ensure the reproducibility of results by producing an output which is not truly random and can be repeated by re-running the code. A good analogy is that if you have a book of random numbers and open the book to a specific page, the numbers will be random, but by reopening the book to the same page, the numbers you get will be the same.  In this case, the random seed is the page number. When you set a random seed, you determine an initial state and by setting the same seed again, you will get the exact same output every time.
+
+## Question 5
+
+
 
 ## Instructions
 
