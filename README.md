@@ -14,11 +14,6 @@ Link to answers for questions 1-3:
 https://github.com/StarfishOx/logistic_growth/blob/385ddd5cf7f6072dc5ba7612c3a31699b3cca5ab/README.md
 
 
-Link to reproducible-research_homework repo:
-
-https://github.com/StarfishOx/reproducible-research_homework.git
-
-
 ## Question 4
 
 a) The R script produced two plots, side by side, showing random walks with 500 steps each. Every step is the same size (0.25) and is represented by a point on the plot. The colour of the points corresponds with the time sequence of these steps. I observed that the colour of the points transitioned along a gradient from dark to light blue through the duration of the walks. Each plot showed a different, random pathway through a 2D space (x & y coordinates) but both walks began at coordinates (0,0). The two walks ended at different coordinates.
