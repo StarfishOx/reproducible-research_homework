@@ -5,11 +5,19 @@ output:
 ---
 # Reproducible research: version control and R
 
+# Candidate Number: 1064904
+
 # Answers
 
 Link to answers for questions 1-3:
 
 https://github.com/StarfishOx/logistic_growth/blob/385ddd5cf7f6072dc5ba7612c3a31699b3cca5ab/README.md
+
+
+Link to reproducible-research_homework repo:
+
+https://github.com/StarfishOx/reproducible-research_homework.git
+
 
 ## Question 4
 
