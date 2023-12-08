@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Reproducible research: version control and R
 
 # Candidate Number: 1064904
